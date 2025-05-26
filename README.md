@@ -11,7 +11,7 @@ Welcome to my GitHub! I’m a high school developer passionate about building to
 - 🌱 Always learning
 
 ### 🛠 Tech Stack
-Languages:     TypeScript · JavaScript · Python · HTML · CSS · Java
-Frameworks:    React · Next.js · Node.js · Express · Expo
-Tools:         VS Code · GitHub · Notion · WakaTime · Vercel
-Design:        Photoshop · Figma · TailwindCSS · ShadCN/UI
+- Languages: TypeScript · JavaScript · Python · HTML · CSS · Java
+- Frameworks: React · Next.js · Node.js · Express · Expo
+- Tools: VS Code · GitHub · Notion · WakaTime · Vercel
+- Design: Photoshop · Figma · TailwindCSS · ShadCN/UI
