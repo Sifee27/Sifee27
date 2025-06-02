@@ -16,5 +16,5 @@ Welcome to my GitHub! I’m a high school developer passionate about building to
 - Tools: VS Code · GitHub · Notion · WakaTime · Vercel
 - Design: Photoshop · Figma · TailwindCSS · ShadCN/UI
 
- https://github-readme-stats.hackclub.dev/api/wakatime?username=3002&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+ (https://github-readme-stats.hackclub.dev/api/wakatime?username=3002&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
  
